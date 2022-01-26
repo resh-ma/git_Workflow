@@ -1,0 +1,10 @@
+pseudo code()
+{
+	initial code()
+	{
+	}
+	feature1()
+	{
+	//feature1
+	}
+}
